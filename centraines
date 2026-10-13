@@ -1,0 +1,3 @@
+public class Castingetprecision{
+      public static void main(String [] args){
+double centimetres = 254.0;
